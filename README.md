@@ -1,6 +1,6 @@
 #Alfred Extensions by nando
 
-Some simple automations of processes 
+Some simple extensions to automate my personal processes and learn some script hacking while at it.
 
 Chrome Arguments
 ---
